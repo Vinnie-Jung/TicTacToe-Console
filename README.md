@@ -14,7 +14,7 @@ README: [English version]()
 
 
 
-<img src="https://user-images.githubusercontent.com/94872696/149708940-271d7fe4-7fdf-44bf-a565-835106683679.png" alt="Image" height="420" width="420">
+<img src="https://user-images.githubusercontent.com/94872696/149708940-271d7fe4-7fdf-44bf-a565-835106683679.png" alt="Image" height="260" width="260">
 
 <img src="https://user-images.githubusercontent.com/94872696/149709003-8dbff339-b285-4431-ac89-b8dac3ab858b.png" alt="Image" height="42" width="42">
 
