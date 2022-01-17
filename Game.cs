@@ -4,11 +4,10 @@ namespace TicTacToe__Console_
 {
     class Game
     {
-        // Class variables
         private char turn = 'X';
         private char[,] board = new char[3, 3];
         private bool game_over = false;
-        private int empty_squares = 9; // Counts filled squares
+        private int empty_squares = 9;
 
         public Game()
         {
@@ -25,7 +24,7 @@ namespace TicTacToe__Console_
             } while (this.game_over == false);
         }
 
-        // Turn Features Methods
+        // Turn Methods
         #region TurnFeatures
         private void ChangeTurn() // Changes player turn
         {
@@ -55,9 +54,9 @@ namespace TicTacToe__Console_
 
         #endregion
 
-        // Board Feature Methods
+        // Board Methods
         #region BoardFeatures
-        private void NewBoard() // Reset board
+        private void NewBoard() // Resets board
         {
             for (int line = 0; line < 3; line++)
             {
