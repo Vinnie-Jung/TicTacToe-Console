@@ -10,8 +10,8 @@ FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dot
 
 <p>Simple tic-tac-toe project made on console using .NET for C#. The aim of the project is to practice and learn the basic/intermediate mechanisms of the language and train programming logic. The project has features such as arrays, classes and objects, methods (functions and procedures), repetition structures, conditional branch structures, etc.</p>
 
-- Using [System](https://docs.microsoft.com/pt-br/dotnet/api/system?view=net-6.0);
-- Using [System.IO](https://docs.microsoft.com/pt-br/dotnet/api/system.io?view=net-6.0);
+- Using [System](https://docs.microsoft.com/en-us/dotnet/api/system?view=net-6.0);
+- Using [System.IO](https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-6.0);
 
 <h3>Rules</h3>
 
