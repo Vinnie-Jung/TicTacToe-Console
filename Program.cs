@@ -12,7 +12,6 @@ namespace TicTacToe__Console_
             {
                 MainMenu();
                 menu_choice = Convert.ToInt32(Console.ReadLine());
-
                 MenuActionTaken(menu_choice);
             }
         }
@@ -50,7 +49,7 @@ namespace TicTacToe__Console_
                     Environment.Exit(0);
                     break;
 
-                // Shows a invalid choice message if chosen option selected in menu isn't true
+                // Shows an invalid choice message if chosen option selected in menu isn't true
                 default:
                     Console.ForegroundColor = ConsoleColor.Red;
 
