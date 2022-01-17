@@ -3,7 +3,7 @@
 <p align="center">Simple Tic-Tac-Toe console game.</p>
 
 
-README: [Versão em português](https://github.com/Vinnie-Jung/TicTacToe-Console/edit/main/README.md)   
+README: [Versão em português](https://github.com/Vinnie-Jung/TicTacToe-Console/blob/main/README.md)   
 FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-5)
 
 <h3>About</h3>
