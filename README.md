@@ -4,7 +4,7 @@
 
 
 README: [Versão em português](https://github.com/Vinnie-Jung/TicTacToe-Console/blob/main/README_PT.md)   
-FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-5)
+FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-5)
 
 <h3>About</h3>
 
