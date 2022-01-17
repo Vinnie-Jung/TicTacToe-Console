@@ -3,7 +3,7 @@
 <p align="center">Projeto simples de jogo da velha feito em console.</p>
 
 
-README: [English version]()   
+README: [English version](https://github.com/Vinnie-Jung/TicTacToe-Console/blob/main/README_ENG.md)   
 FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-5)
 
 <h3>Sobre</h3>
