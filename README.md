@@ -8,7 +8,7 @@ README: [English version]()
 
 >1) O jogo acontece em um tabuleiro 3x3 com dois jogadores.
 >
->2) Um jogador é o "X" e o outro é o "O". Os jogadores revezar em turnos posicionando suas marcas (X e O) no tabuleiro.
+>2) Um jogador é o "X" e o outro é o "O". Os jogadores revezam em turnos posicionando suas marcas (X e O) no tabuleiro.
 >
 >3) O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo.
 >
