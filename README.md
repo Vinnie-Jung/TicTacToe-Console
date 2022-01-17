@@ -5,5 +5,4 @@
 README: [English version]()
 
 <h3>Imagens</h3>
-
-![image](https://user-images.githubusercontent.com/94872696/149708896-2984b5c3-18e5-4828-9c69-15ef508a1afa.png)
+![image](https://user-images.githubusercontent.com/94872696/149708926-36347b1e-7766-498d-b80a-f07f4b562266.png)
