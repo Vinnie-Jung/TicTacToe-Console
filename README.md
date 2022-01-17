@@ -6,4 +6,4 @@ README: [English version]()
 
 <h3>Imagens</h3>
 
-![image](https://user-images.githubusercontent.com/94872696/149708863-16723f13-4ee3-43df-b703-67d0665d7b49.png)
+![image](https://user-images.githubusercontent.com/94872696/149708896-2984b5c3-18e5-4828-9c69-15ef508a1afa.png)
