@@ -4,6 +4,13 @@
 
 README: [English version]()
 
+<h3>Regras</h3>
+
+>1) O jogo acontece em um tabuleiro 3x3 com dois jogadores.
+>2) Um jogador é o "X" e o outro é o "O". Os jogadores revesam em turnos posicionando suas marcas (X e O) no tabuleiro.
+>3) O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo.
+>4) Caso todas as casas do tabuleiro sejam preenchidas e nenhum dos jogadores conseguiu realizar uma sequência de três símbolos iguais a rodada termina em empate.
+
 <h3>Imagens</h3>
 
 
