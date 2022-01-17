@@ -4,7 +4,6 @@
 
 
 README: [English version]()
-
 FRAMEWORK: [.NET 5.0](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-5)
 
 <h3>Sobre</h3>
