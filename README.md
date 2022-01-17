@@ -8,6 +8,9 @@ README: [English version]()
 
 <p> Projeto simples de jogo da velha feito em console utilizando .NET para C#. O objetivo do projeto é praticar e aprender os mecanismos básicos / intermediários da linguagem e treinar lógica de programação. O projeto conta com recursos como arrays, classes e objetos, métodos (funções e procedimentos), estruturas de repetição, estruturas de desvio condicional, etc.</p>
 
+- Using [System](https://docs.microsoft.com/pt-br/dotnet/api/system?view=net-6.0);
+- Using [System.IO](https://docs.microsoft.com/pt-br/dotnet/api/system.io?view=net-6.0);
+
 <h3>Regras</h3>
 
 >1) O jogo acontece em um tabuleiro 3x3 com dois jogadores.
